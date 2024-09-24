@@ -1,3 +1,15 @@
 body {
     background-color: rgb(179, 29, 146);
 }
+p{
+    color:bisque
+}
+
+h1{
+    font-style:italic;
+}
+
+.mor{
+color:azure;
+font-size: medium;
+}
